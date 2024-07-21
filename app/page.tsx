@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     'Explore the complete list of Star Wars heroes. Get detailed profiles of characters from the beloved saga. Dive into the Star Wars universe!',
 };
 
-interface PageProps {
+interface HomeProps {
   searchParams: { page: string; search: string };
 }
 
-export default async function Page({
+export default async function Home({
   searchParams: { page, search },
-}: PageProps) {
+}: HomeProps) {
   const data = await getCharacters(page, search);
   const { count, results: characters } = data;
 

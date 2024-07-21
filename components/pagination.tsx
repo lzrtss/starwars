@@ -47,7 +47,10 @@ export default function Pagination({
   };
 
   return (
-    <ul className="flex justify-center items-center gap-3 mb-10">
+    <ul
+      className="flex justify-center items-center gap-3 mb-10"
+      role="pagination"
+    >
       <li>
         <button
           className="px-4 py-2 rounded-lg border border-white hover:text-blue-200 hover:border-y hover:border-blue-200 disabled:text-neutral-500 disabled:cursor-not-allowed disabled:border-neutral-500"

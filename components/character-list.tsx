@@ -1,9 +1,8 @@
 import Link from 'next/link';
 
 import CharacterCard from '@/components/character-card';
-// import MotionOpacity from '@/components/motion-opacity';
+import MotionOpacity from '@/components/motion-opacity';
 import { ICharacter } from '@/types/characters.interface';
-import MotionOpacity from './motion-opacity';
 
 interface CharacterListProps {
   characters: ICharacter[];
