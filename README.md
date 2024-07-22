@@ -1,6 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Introduction
+
+StarWars is an open-source web application that allows users to browse a list of Star Wars characters, search for their favorites, and view detailed information such as character images, bios, and graphs representing their starships and films. The application is built with the latest version of Next.js, adhering to best practices.
+
+## Tech Stack
+
+- Next.js 14;
+- Typescript;
+- TailwindCSS;
+- Axios;
+- React Flow;
+
+<img width="1440" alt="Снимок экрана 2024-07-22 в 08 49 37" src="https://github.com/user-attachments/assets/31432051-53d5-47c8-9236-aff610e052e3">
+
+<img width="1440" alt="Снимок экрана 2024-07-22 в 08 50 07" src="https://github.com/user-attachments/assets/830e4782-dcfb-4034-b5ae-5e82db1b541d">
+
+<img width="1440" alt="Снимок экрана 2024-07-22 в 08 50 41" src="https://github.com/user-attachments/assets/ac15f5f2-5711-4064-8a49-782b9090b68a">
+
+<img width="1440" alt="Снимок экрана 2024-07-22 в 08 51 57" src="https://github.com/user-attachments/assets/d3ad7941-a08a-417f-b274-cc181776efb8">
+
+<img width="1440" alt="Снимок экрана 2024-07-22 в 08 46 14" src="https://github.com/user-attachments/assets/488c117b-3988-4f9b-a1fc-2cdabf87394b">
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
