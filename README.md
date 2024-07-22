@@ -18,6 +18,8 @@ StarWars is an open-source web application that allows users to browse a list of
 
 <img width="1440" alt="Снимок экрана 2024-07-22 в 08 51 57" src="https://github.com/user-attachments/assets/d3ad7941-a08a-417f-b274-cc181776efb8">
 
+<img width="1335" alt="Снимок экрана 2024-07-22 в 10 44 39" src="https://github.com/user-attachments/assets/9ad11410-3b1f-46c9-9426-60c9d1abe86a">
+
 <img width="1440" alt="Снимок экрана 2024-07-22 в 08 46 14" src="https://github.com/user-attachments/assets/488c117b-3988-4f9b-a1fc-2cdabf87394b">
 
 ## Getting Started
