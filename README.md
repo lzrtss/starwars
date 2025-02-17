@@ -10,21 +10,28 @@ StarWars is an open-source web application that allows users to browse a list of
 - Axios;
 - React Flow;
 
-<img width="1440" alt="Снимок экрана 2024-07-22 в 08 49 37" src="https://github.com/user-attachments/assets/31432051-53d5-47c8-9236-aff610e052e3">
+<img width="1440" alt="home page" src="https://github.com/user-attachments/assets/31432051-53d5-47c8-9236-aff610e052e3">
 
-<img width="1440" alt="Снимок экрана 2024-07-22 в 08 50 07" src="https://github.com/user-attachments/assets/830e4782-dcfb-4034-b5ae-5e82db1b541d">
+<img width="1440" alt="searchbar" src="https://github.com/user-attachments/assets/830e4782-dcfb-4034-b5ae-5e82db1b541d">
 
-<img width="1440" alt="Снимок экрана 2024-07-22 в 08 50 41" src="https://github.com/user-attachments/assets/ac15f5f2-5711-4064-8a49-782b9090b68a">
+<img width="1440" alt="pagination" src="https://github.com/user-attachments/assets/ac15f5f2-5711-4064-8a49-782b9090b68a">
 
-<img width="1440" alt="Снимок экрана 2024-07-22 в 08 51 57" src="https://github.com/user-attachments/assets/d3ad7941-a08a-417f-b274-cc181776efb8">
+<img width="1440" alt="character details page" src="https://github.com/user-attachments/assets/d3ad7941-a08a-417f-b274-cc181776efb8">
 
-<img width="1335" alt="Снимок экрана 2024-07-22 в 10 44 39" src="https://github.com/user-attachments/assets/9ad11410-3b1f-46c9-9426-60c9d1abe86a">
+<img width="1335" alt="not found page" src="https://github.com/user-attachments/assets/9ad11410-3b1f-46c9-9426-60c9d1abe86a">
 
-<img width="1440" alt="Снимок экрана 2024-07-22 в 08 46 14" src="https://github.com/user-attachments/assets/488c117b-3988-4f9b-a1fc-2cdabf87394b">
+<img width="1440" alt="performance review" src="https://github.com/user-attachments/assets/488c117b-3988-4f9b-a1fc-2cdabf87394b">
+
+
+# Project Video Overview
+
+[![STARWARS Project Overview](https://github.com/user-attachments/assets/c49f233b-b175-4edd-b13c-e4291c6bac16)](https://youtu.be/pnYCQdRwOUo)
+
 
 ## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 First, run the development server:
 
